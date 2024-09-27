@@ -1,0 +1,25 @@
+# Model files  
+models/*  
+!models/.gitkeep  
+
+# Data files  
+data/*  
+!data/.gitkeep  
+
+# Byte-compiled / optimized / DLL files  
+__pycache__/  
+*.py[cod]  
+*$py.class  
+
+# Environments  
+.env  
+.env.local
+.venv  
+env/  
+venv/  
+ENV/  
+env.bak/  
+venv.bak/  
+
+# VS Code  
+.vscode/  
